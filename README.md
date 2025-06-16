@@ -61,10 +61,6 @@ A markdown cell indicating the author's name.
 
 ![Author Details](./screenshots/11-authordetails.png)
 
-## How to Use this Repository
-- Clone this repository to view the notebook.
-- To view the notebook on GitHub, click [here](https://github.com/jyanggi/DataScienceEcosystem/blob/main/DataScienceEcosystem.ipynb).
-
 ## Author
 Muskan Yadav
 
