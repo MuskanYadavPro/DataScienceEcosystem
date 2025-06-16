@@ -66,5 +66,5 @@ A markdown cell indicating the author's name.
 - To view the notebook on GitHub, click [here](https://github.com/jyanggi/DataScienceEcosystem/blob/main/DataScienceEcosystem.ipynb).
 
 ## Author
-John Yanguas
+Muskan Yadav
 
